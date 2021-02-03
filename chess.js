@@ -356,9 +356,7 @@ class Chess {
     }
 
 
-    /**
-     * This AI below is reworked from https://github.com/lhartikk/simple-chess-ai and is not my own original work
-     */
+    //Chess AI starts here
 
     makeBestMove() {
         const depth = 4;
